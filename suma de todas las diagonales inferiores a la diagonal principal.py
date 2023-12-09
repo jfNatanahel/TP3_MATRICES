@@ -31,5 +31,6 @@ if filas == columnas:
     #Mostrar el resultado final
     suma_total = sum(sumas_diagonales)
     print("\nLa suma total de todas las diagonales inferiores a la principal es:", suma_total)
+    
 else:
     print("La matriz no es cuadrada, no tiene diagonal principal.")

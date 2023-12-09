@@ -1,6 +1,4 @@
-"""
-Dada una matriz de MxN elementos numericos, calcular y mostrar la suma de todas las diagonales inferiores a la diagonal principal.
-"""
+
 filas=int(input("Ingresar el tamaño de las filas: "))
 columnas=int(input("Ingresar el tamaño de las columnas: "))
 
